@@ -5,7 +5,7 @@
 - 📫 How to reach me DominikLenio@gmail.com
 
 ### latest projects
--[League of legends players clustering](https://github.com/L3ni0/League-of-Legends-player-clusteringClustering) 
+-[League of legends players clustering](https://github.com/L3ni0/League-of-Legends-player-clusteringClustering) still in progress
 
 -[Tutoring bot](https://github.com/L3ni0/korko_bot) has been done few years ago, maded for managing database from discord
 
