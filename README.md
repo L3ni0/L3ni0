@@ -11,7 +11,7 @@
 
 
 ### Courses
-as i'm started learn about data 2 years ago, i spend most of my time with courses, i link only those i think are valuable (and i did some projects on it):
+as i'm started learn about data year ago, i spend most of my time with courses, i link only those i think are valuable (and i did some projects on it):
 
 - [IBM data science](https://github.com/L3ni0/Coursera_assignment/tree/main/Applied_Data_Science_Capstone)
 
