@@ -9,6 +9,12 @@
 
 -[Tutoring bot](https://github.com/L3ni0/korko_bot) has been done few years ago, maded for managing database from discord
 
+
+### Courses
+as i'm started learn about data 2 years ago, i spend most of my time with courses, i link only those i think are valuable (and i did some projects on it):
+
+- [IBM data science](https://github.com/L3ni0/Coursera_assignment/tree/main/Applied_Data_Science_Capstone)
+
 <!---
 L3ni0/L3ni0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
