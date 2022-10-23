@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L3ni0, student of system enginnering
-- 👀 I’m interested in Data Science, Machine Learning, Neuron Network, Statistic
-- 🌱 I’m currently learning Scikit-learn, and doing curses on DataCamp, preparing for dp-100 microsoft certification, and statistic course at DataWorkshop. I'm open on any kind of support and tips
+- 👀 I’m interested in Data Science, Machine Learning, Neuron Network, Statistic, and Data Engineering
+- 🌱 I’m currently learning Scikit-learn, and doing curses on DataCamp at Data Scientins and Data Engineer I'm open on any kind of support and tips
 - 💞️ I’m looking to collaborate on any Project connetced with my interests
 - 📫 How to reach me DominikLenio@gmail.com
 
