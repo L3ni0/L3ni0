@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @L3ni0, student of system enginnering
-- 👀 I’m interested in Data Science, Machine Learning, Neuron Network, Statistic, and Data Engineering
-- 🌱 I’m currently learning Scikit-learn, and doing curses on DataCamp at Data Scientins and Data Engineer I'm open on any kind of support and tips
+- 👀 I’m interested in Data Engineering, Data Science, Machine Learning and Neuron Network
+- 🌱 I’m currently working at Volvo company as Data Engineer Trainee
 - 💞️ I’m looking to collaborate on any Project connetced with my interests
 - 📫 How to reach me DominikLenio@gmail.com
 
 ### latest projects
+
+-[Pornbub stars network analyst](https://github.com/L3ni0/pornhub-project)
+
 -[League of legends players clustering](https://github.com/L3ni0/League-of-Legends-player-clusteringClustering)
 
 -[Tutoring bot](https://github.com/L3ni0/korko_bot) has been done few years ago, maded for managing database from discord
