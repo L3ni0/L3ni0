@@ -6,7 +6,7 @@
 
 ### latest projects
 
--[Pornbub stars network analyst](https://github.com/L3ni0/pornhub-project)
+-[Pornhub stars network analyst](https://github.com/L3ni0/pornhub-project)
 
 -[League of legends players clustering](https://github.com/L3ni0/League-of-Legends-player-clusteringClustering)
 
