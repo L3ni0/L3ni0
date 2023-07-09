@@ -6,9 +6,9 @@
 
 ### latest projects
 
--[Pornhub stars network analyst](https://github.com/L3ni0/pornhub-project)
+-[ETL process on airport flight data](https://github.com/L3ni0/Aiports_data_warehouse_ETL)
 
--[League of legends players clustering](https://github.com/L3ni0/League-of-Legends-player-clusteringClustering)
+-[Pornhub stars network analyst](https://github.com/L3ni0/pornhub-project)
 
 -[Tutoring bot](https://github.com/L3ni0/korko_bot) has been done few years ago, maded for managing database from discord
 
