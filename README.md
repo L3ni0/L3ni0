@@ -26,7 +26,7 @@ Learned on my own/studies:
 -[Pornhub stars network analyst](https://github.com/L3ni0/pornhub-project)
 
 
-### [Studies Archive](https://github.com/L3ni0/School_Stuff)
+### [Bachelor's degree Archive](https://github.com/L3ni0/School_Stuff)
 
 
 
