@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @L3ni0, Data Engineer:
-Currently working in: Volvo
+Currently working in: Qiagen
 
 Commercial Stack:
 
@@ -9,15 +9,16 @@ Commercial Stack:
 ![Azure DevOps](https://a11ybadges.com/badge?logo=azuredevops)
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 ![Power BI](https://a11ybadges.com/badge?logo=powerbi)
+![Scala](https://a11ybadges.com/badge?logo=scala)
 
-Learned on my own/studies:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Learned on my own/studies/student research group:
 ![Apache Airflow](https://a11ybadges.com/badge?logo=apacheairflow)
 ![pandas](https://a11ybadges.com/badge?logo=pandas)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
-![Scala](https://a11ybadges.com/badge?logo=scala)
 ![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Studies Projects
 
