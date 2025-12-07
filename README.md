@@ -21,8 +21,9 @@ Learned on my own/studies/student research group:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Studies Projects
+-[ETL process on games data](https://github.com/L3ni0/pjatk_e_l_project) (Airflow + Spark + Postgres)
 
--[ETL process on airport flight data](https://github.com/L3ni0/Aiports_data_warehouse_ETL)
+-[ETL process on airport flight data](https://github.com/L3ni0/Aiports_data_warehouse_ETL) (Aiflow + Pandas)
 
 -[Pornhub stars network analyst](https://github.com/L3ni0/pornhub-project)
 
